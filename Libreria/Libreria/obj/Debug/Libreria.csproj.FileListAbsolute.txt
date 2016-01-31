@@ -1,0 +1,11 @@
+C:\nvs\Fuentes\SBO\trunk\NET\Libreria\Libreria\bin\Debug\Libreria.dll
+C:\nvs\Fuentes\SBO\trunk\NET\Libreria\Libreria\bin\Debug\Libreria.pdb
+C:\nvs\Fuentes\SBO\trunk\NET\Libreria\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
+C:\nvs\Fuentes\SBO\trunk\NET\Libreria\Libreria\obj\Debug\Libreria.dll
+C:\nvs\Fuentes\SBO\trunk\NET\Libreria\Libreria\obj\Debug\Libreria.pdb
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\Libreria\Libreria\bin\Debug\Libreria.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\Libreria\Libreria\bin\Debug\Libreria.pdb
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\Libreria\Libreria\obj\Debug\Libreria.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\Libreria\Libreria\obj\Debug\Libreria.pdb
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\Libreria\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\Libreria\Libreria\bin\Debug\Libreria.dll.config

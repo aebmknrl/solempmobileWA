@@ -1,0 +1,264 @@
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\ApplicationInsights.config
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\csc.exe
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\System.Collections.Immutable.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\System.Reflection.Metadata.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\vbc.exe
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\VBCSCompiler.exe
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\VBCSCompiler.exe.config
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\SOLEMPMobile.dll.config
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\SOLEMPMobile.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\SOLEMPMobile.pdb
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Antlr3.Runtime.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Libreria.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.Agent.Intercept.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.DependencyCollector.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.Web.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.WindowsServer.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.ApplicationInsights.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.Web.Infrastructure.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Newtonsoft.Json.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Net.Http.Formatting.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Helpers.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Http.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Http.WebHost.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Mvc.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Optimization.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Razor.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.Deployment.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.Razor.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\WebGrease.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Libreria.pdb
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.DependencyCollector.xml
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.Web.xml
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.WindowsServer.xml
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.ApplicationInsights.xml
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Newtonsoft.Json.xml
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Net.Http.Formatting.xml
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Helpers.xml
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Http.xml
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Http.WebHost.xml
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Mvc.xml
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Optimization.xml
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Razor.xml
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.xml
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.Deployment.xml
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.Razor.xml
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\bin\Antlr3.Runtime.pdb
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\obj\Debug\SOLEMPMobile.csprojResolveAssemblyReference.cache
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\obj\Debug\SOLEMPMobile.dll
+C:\nvs\Fuentes\SBO\trunk\NET\SOLEMPMobile\SOLEMPMobile\obj\Debug\SOLEMPMobile.pdb
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\ApplicationInsights.config
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\csc.exe
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\vbc.exe
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\SOLEMPMobile.dll.config
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\SOLEMPMobile.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\SOLEMPMobile.pdb
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Antlr3.Runtime.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Libreria.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.Web.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Newtonsoft.Json.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Net.Http.Formatting.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Helpers.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Http.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Http.WebHost.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Mvc.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Optimization.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Razor.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\WebGrease.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Libreria.pdb
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.Web.xml
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Newtonsoft.Json.xml
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Net.Http.Formatting.xml
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Helpers.xml
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Http.xml
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Http.WebHost.xml
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Mvc.xml
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Optimization.xml
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Razor.xml
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.xml
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Antlr3.Runtime.pdb
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\obj\Debug\SOLEMPMobile.dll
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\obj\Debug\SOLEMPMobile.pdb
+C:\Users\Ali\Desktop\NET\SOLEMPMobile\SOLEMPMobile\obj\Debug\SOLEMPMobile.csprojResolveAssemblyReference.cache
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\ApplicationInsights.config
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\csc.exe
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\vbc.exe
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\VBCSCompiler.exe
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\SOLEMPMobile.dll.config
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\SOLEMPMobile.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\SOLEMPMobile.pdb
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Antlr3.Runtime.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Libreria.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.Web.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.ApplicationInsights.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Newtonsoft.Json.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Net.Http.Formatting.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Helpers.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Http.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Http.WebHost.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Mvc.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Optimization.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Razor.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.Deployment.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.Razor.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\WebGrease.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Libreria.pdb
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.Web.xml
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.ApplicationInsights.xml
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Newtonsoft.Json.xml
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Net.Http.Formatting.xml
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Helpers.xml
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Http.xml
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Http.WebHost.xml
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Mvc.xml
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Optimization.xml
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Razor.xml
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.xml
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.Deployment.xml
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.Razor.xml
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\bin\Antlr3.Runtime.pdb
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\obj\Debug\SOLEMPMobile.csprojResolveAssemblyReference.cache
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\obj\Debug\SOLEMPMobile.dll
+C:\Users\abriceno\Desktop\NET\SOLEMPMobile\SOLEMPMobile\obj\Debug\SOLEMPMobile.pdb
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\obj\Debug\SOLEMPMobile.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\ApplicationInsights.config
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\roslyn\csc.exe
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\roslyn\vbc.exe
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\SOLEMPMobile.dll.config
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\SOLEMPMobile.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\SOLEMPMobile.pdb
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Antlr3.Runtime.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Libreria.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.Web.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.Owin.Cors.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.Owin.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.Owin.Security.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Newtonsoft.Json.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Owin.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Net.Http.Formatting.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Cors.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Helpers.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Http.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Http.Owin.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Http.WebHost.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Mvc.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Optimization.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Razor.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\WebGrease.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Libreria.pdb
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.Web.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.Owin.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.Owin.Cors.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.Owin.Security.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Http.Owin.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Newtonsoft.Json.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Net.Http.Formatting.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Helpers.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Http.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Http.WebHost.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Mvc.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Optimization.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.Razor.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\bin\Antlr3.Runtime.pdb
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\obj\Debug\SOLEMPMobile.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\SOLEMPMobile\SOLEMPMobile\obj\Debug\SOLEMPMobile.pdb

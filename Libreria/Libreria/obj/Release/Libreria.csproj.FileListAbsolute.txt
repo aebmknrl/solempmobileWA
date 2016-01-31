@@ -1,0 +1,10 @@
+C:\Users\Ali\Desktop\NET\Libreria\Libreria\bin\Release\Libreria.dll
+C:\Users\Ali\Desktop\NET\Libreria\Libreria\bin\Release\Libreria.pdb
+C:\Users\Ali\Desktop\NET\Libreria\Libreria\obj\Release\Libreria.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\NET\Libreria\Libreria\obj\Release\Libreria.dll
+C:\Users\Ali\Desktop\NET\Libreria\Libreria\obj\Release\Libreria.pdb
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\Libreria\Libreria\bin\Release\Libreria.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\Libreria\Libreria\bin\Release\Libreria.pdb
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\Libreria\Libreria\obj\Release\Libreria.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\Libreria\Libreria\obj\Release\Libreria.dll
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\Libreria\Libreria\obj\Release\Libreria.pdb
