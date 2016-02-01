@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="IIS Web Application Name" description="" value="Default Web Site/solempmobileWA" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Ali\\Documents\\Visual\ Studio\ 2015\\Projects\\Backend\ SolEmp\ Mobile\\SOLEMPMobile\\SOLEMPMobile\\obj\\Release\\Package\\PackageTmp$" />
-    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Ali\\Documents\\Visual\ Studio\ 2015\\Projects\\Backend\ SolEmp\ Mobile\\SOLEMPMobile\\SOLEMPMobile\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\abriceno\\Documents\\solempmobileWA\\SOLEMPMobile\\SOLEMPMobile\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\abriceno\\Documents\\solempmobileWA\\SOLEMPMobile\\SOLEMPMobile\\obj\\Release\\Package\\PackageTmp$" />
   </parameter>
 </parameters>

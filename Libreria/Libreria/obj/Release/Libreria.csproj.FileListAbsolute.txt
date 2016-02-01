@@ -8,3 +8,9 @@ C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\Libreri
 C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\Libreria\Libreria\obj\Release\Libreria.csprojResolveAssemblyReference.cache
 C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\Libreria\Libreria\obj\Release\Libreria.dll
 C:\Users\Ali\Documents\Visual Studio 2015\Projects\Backend SolEmp Mobile\Libreria\Libreria\obj\Release\Libreria.pdb
+C:\Users\abriceno\Documents\solempmobileWA\Libreria\Libreria\bin\Release\Libreria.dll.config
+C:\Users\abriceno\Documents\solempmobileWA\Libreria\Libreria\bin\Release\Libreria.dll
+C:\Users\abriceno\Documents\solempmobileWA\Libreria\Libreria\bin\Release\Libreria.pdb
+C:\Users\abriceno\Documents\solempmobileWA\Libreria\Libreria\obj\Release\Libreria.csprojResolveAssemblyReference.cache
+C:\Users\abriceno\Documents\solempmobileWA\Libreria\Libreria\obj\Release\Libreria.dll
+C:\Users\abriceno\Documents\solempmobileWA\Libreria\Libreria\obj\Release\Libreria.pdb

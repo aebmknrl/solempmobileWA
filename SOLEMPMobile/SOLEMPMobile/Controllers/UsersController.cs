@@ -8,6 +8,8 @@ using System.Web.Http;
 using Libreria;
 using System.Net.Http.Formatting;
 using SOLEMPMobile.Models;
+using Microsoft.Owin.Security.Cookies;
+using Microsoft.Owin.Security;
 
 namespace SOLEMPMobile.Controllers
 {
@@ -33,7 +35,6 @@ namespace SOLEMPMobile.Controllers
         #endregion
 
         #region getUser(string userName, string Password)
-        [AllowAnonymous]
         [HttpPost]
         [Route("getUser")]
         public HttpResponseMessage getUser(LoginData login)
@@ -51,7 +52,6 @@ namespace SOLEMPMobile.Controllers
         #endregion
 
         #region getAllUserInfo(string userName)
-        [Authorize]
         [HttpPost]
         [Route("getAllUserInfo")]
         public HttpResponseMessage getAllUserInfo(User userID)
@@ -137,6 +137,22 @@ namespace SOLEMPMobile.Controllers
         }
         #endregion
 
+        [Route("Logout")]
+        public IHttpActionResult Logout()
+        {
+            Authentication.SignOut(CookieAuthenticationDefaults.AuthenticationType);
+            return Ok();
+        }
+
+
+
+
+
+
+        private IAuthenticationManager Authentication
+        {
+            get { return Request.GetOwinContext().Authentication; }
+        }
 
     }
 }
